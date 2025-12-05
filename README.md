@@ -1,10 +1,12 @@
-# homebrew-repo
+# homebrew-tap
 
-## How do I install these formulae?
+## Usage
 
-`brew install sunnyyoung/repo/<formula>`
+`brew install sunnyyoung/tap/<formula>`
 
-Or `brew tap sunnyyoung/repo` and then `brew install <formula>`.
+Or
+
+`brew tap sunnyyoung/tap` and then `brew install <formula>`
 
 ## Documentation
 
