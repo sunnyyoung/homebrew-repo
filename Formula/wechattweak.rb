@@ -1,9 +1,9 @@
 class Wechattweak < Formula
   desc "A command line utility to work with WeChatTweak-macOS."
   homepage "https://tweaks.app"
-  version "2.0-beta1"
+  version "2.0-beta2"
   url "https://github.com/sunnyyoung/WeChatTweak/releases/download/#{version}/wechattweak"
-  sha256 "f624a1b4ee50aab2edc1309723048ec9bfdcedd2be3739db4d6840295845c953"
+  sha256 "e0e4a6f730c6217180905fdf7a35803859902914d624bd4129cf3e0882b97ba0"
   license "AGPL-3.0"
 
   depends_on macos: :monterey
